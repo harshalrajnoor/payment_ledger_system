@@ -1,2 +1,4 @@
 /build
 /.gradle
+/docker-compose.yml
+.env
