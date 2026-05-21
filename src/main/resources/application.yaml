@@ -4,8 +4,8 @@ spring:
 
   datasource:
     url: jdbc:postgresql://localhost:5433/payment_ledger
-    username: ${DB_USERNAME:harshal}
-    password: ${DB_PASSWORD:678876}
+    username: harshal
+    password: 678876
     driver-class-name: org.postgresql.Driver
 
   jpa:
