@@ -2,3 +2,5 @@
 /.gradle
 /docker-compose.yml
 .env
+.DS_Store
+.idea
