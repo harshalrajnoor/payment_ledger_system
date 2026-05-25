@@ -1,0 +1,42 @@
+type: http_request
+model: http_request
+id: rq_mRRRW8hcTe
+createdAt: 2026-05-25T19:31:21.755837
+updatedAt: 2026-05-25T19:31:40.944589
+workspaceId: wk_gxGn4kxzL2
+folderId: fl_8dRu5KcvAz
+authentication: {}
+authenticationType: null
+body:
+  text: |-
+    {
+      "amount": 100.00,
+      "currency": "INR"
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: null
+method: POST
+name: deposit to wallet
+sortPriority: 0.0
+url: http://localhost:8080/api/wallets/1/deposit
+urlParameters: []
+settingSendCookies:
+  enabled: false
+  value: true
+settingStoreCookies:
+  enabled: false
+  value: true
+settingValidateCertificates:
+  enabled: false
+  value: true
+settingFollowRedirects:
+  enabled: false
+  value: true
+settingRequestTimeout:
+  enabled: false
+  value: 0

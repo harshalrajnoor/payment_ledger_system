@@ -1,0 +1,42 @@
+type: http_request
+model: http_request
+id: rq_SgKbh8PRik
+createdAt: 2026-05-25T19:14:11.449407
+updatedAt: 2026-05-25T19:28:15.681567
+workspaceId: wk_gxGn4kxzL2
+folderId: fl_8dRu5KcvAz
+authentication: {}
+authenticationType: null
+body:
+  text: |-
+    {
+      "userId": 2,
+      "currency": "INR"
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: null
+method: POST
+name: create wallet
+sortPriority: 0.0
+url: http://localhost:8080/api/wallets
+urlParameters: []
+settingSendCookies:
+  enabled: false
+  value: true
+settingStoreCookies:
+  enabled: false
+  value: true
+settingValidateCertificates:
+  enabled: false
+  value: true
+settingFollowRedirects:
+  enabled: false
+  value: true
+settingRequestTimeout:
+  enabled: false
+  value: 0

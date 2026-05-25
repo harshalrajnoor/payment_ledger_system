@@ -1,0 +1,28 @@
+type: folder
+model: folder
+id: fl_8dRu5KcvAz
+createdAt: 2026-05-25T19:14:19.675439
+updatedAt: 2026-05-25T19:14:19.675440
+workspaceId: wk_gxGn4kxzL2
+folderId: null
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: wallet
+sortPriority: -1779736459673.0
+settingSendCookies:
+  enabled: false
+  value: true
+settingStoreCookies:
+  enabled: false
+  value: true
+settingValidateCertificates:
+  enabled: false
+  value: true
+settingFollowRedirects:
+  enabled: false
+  value: true
+settingRequestTimeout:
+  enabled: false
+  value: 0

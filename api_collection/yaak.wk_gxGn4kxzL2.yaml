@@ -1,0 +1,17 @@
+type: workspace
+model: workspace
+id: wk_gxGn4kxzL2
+createdAt: 2026-05-25T19:14:06.332383
+updatedAt: 2026-05-25T19:14:06.332384
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: apis
+encryptionKeyChallenge: null
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0
+settingDnsOverrides: []
+settingSendCookies: true
+settingStoreCookies: true
